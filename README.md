@@ -9,6 +9,7 @@ Welcome to the Text-Converter project, created by Rocky Kumar. This project is b
 - Toggle text between camelCase and snake_case.
 - Count characters, words, and lines in the input text.
 - Copy the converted text to the clipboard.
+- Convert test to SentenceCase
 
 ## Installation
 1. Clone this repository to your local machine using:
@@ -28,7 +29,7 @@ Welcome to the Text-Converter project, created by Rocky Kumar. This project is b
 4. Click the "Copy" button to copy the converted text to your clipboard.
 
 ## Contact Information
-For any inquiries or feedback, please contact Manoranjankumar via email at manoranjankumar8051@gmail.com.
+For any inquiries or feedback, please contact Rocky Kumar via email at rockykr150498@gmail.com.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
